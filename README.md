@@ -1,2 +1,2 @@
 # Classifcation
-This repository for 944 AI
+This repository for 944 AI Test.

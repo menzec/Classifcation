@@ -1,4 +1,4 @@
-**----From 2019.7.8----**
+**From 2019.7.8**
 ### Team Name
 Amen one carry four.
 
